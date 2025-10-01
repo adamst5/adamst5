@@ -1,8 +1,7 @@
 # 👨‍💻 Olá, meu nome é TimTum
 ### JavaScript para backend e automação  
 
-![Banner Animado](https://github.com/adamst5/images-banners/creative commonJS/45 Sem Título_20251001131324.png)  
-<!-- Substitua por GIF animado se quiser mais movimento -->
+![Banner Animado](https://raw.githubusercontent.com/adamst5/images-banners/main/creative%20commonJS/45%20Sem%20T%C3%ADtulo_20251001131324.png)
 
 ---
 
